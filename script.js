@@ -24,7 +24,7 @@ function personalizePage() {
   const message = document.getElementById("personalMessage");
 
   headline.textContent = `Alles Gute zum Geburtstag, ${name}! 🎈`;
-  message.textContent = `${name}, heute ist dein Tag – feier schön! 🥳`;
+  message.textContent = `${name}, Heute ist dein Tag 🎉\nBleib gesund, glücklich und lass dich feiern! 🥳`;
 }
 
 personalizePage();
